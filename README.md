@@ -90,12 +90,12 @@ It's when you fix the login and break the registration.
 
 
 > [!NOTE]
-> "If a change in requirements breaks your architecture, then your architecture is crap."  
+> "If a change in requirements breaks your architecture, then your architecture is crap."
 >
 > — Robert C. Martin
 
 > [!NOTE]
-> "If you are afraid to change something, then it is poorly designed."  
+> "If you are afraid to change something, then it is poorly designed."
 >
 > — Martin Fowler
 
