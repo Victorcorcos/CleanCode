@@ -978,21 +978,28 @@ Clean code brings a series of advantages that positively impact individuals at a
 >
 > — Robert C. Martin
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9a87ec99-fd21-4a0f-8456-f11d8735edbb" alt="output_image" style="width: 500px" />
+</p>
+
 
 # References 📚
 
-- Robert C. Martin
-- Martin Fowler
-- Don Wells
-- Ray Ozzie
-- Joel Spolsky
-- Bjarne Stroustrup
-- Ken Thompson
-- Santosh Kalwar
-- Donald Knuth
-- Kent Beck
-- Harold Abelson
-- Jerry Sussman
+1. Robert C. Martin
+2. Martin Fowler
+3. Bill Gates
+4. Steve Jobs
+5. Don Wells
+6. Ray Ozzie
+7. Joel Spolsky
+8. Bjarne Stroustrup
+9. Ken Thompson
+10. Santosh Kalwar
+11. Donald Knuth
+12. Kent Beck
+13. Harold Abelson
+14. Jerry Sussman
+15. Douglas Crockford
 
 
 # Slides 🖼️
